@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bombay 700ml",
+    "empty_weight":200,
+    "full_weight": 920,
+    "volume":700
+  },
+  {
+    "name": "Finlandia 700ml",
+    "empty_weight":210,
+    "full_weight": 930,
+    "volume":700
+  },
+  {
+    "name": "Beefeater 700ml",
+    "empty_weight":215,
+    "full_weight": 922,
+    "volume":700
+  }
+]
